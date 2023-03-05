@@ -1,0 +1,15 @@
+django 
+djoser 
+SQLAlchemy 
+simplejwt
+channels
+MySQL-client 
+mysql 
+django-cors-headers 
+django-channels 
+Pillow
+numpy
+daphne
+twisted[http2,tls]
+websocket-client
+channels-redis
